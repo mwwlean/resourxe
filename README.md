@@ -596,6 +596,7 @@ A curated list of developer tools to help you code, design, and build faster.
 | [Perplexity](https://www.perplexity.ai/) | An AI answer engine with cited sources. |
 | [NotebookLM](https://notebooklm.google/) | An AI research notebook grounded in your own sources. |
 | [Open WebUI](https://openwebui.com/) | A self-hosted, extensible chat UI for local and remote models. |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/) | Gets the transcript of a YouTube video with timestamps, plus AI summaries and chat about it. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
